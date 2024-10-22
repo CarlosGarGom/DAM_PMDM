@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ej07_GraficosAndroid</string>
+    <string name="graficos1">Graficos (I)</string>
+    <string name="graficos2">Graficos (II)</string>
+    <string name="dibujarImagen">Dibujar Imagen</string>
+    <string name="salir">Salir</string>
+</resources>

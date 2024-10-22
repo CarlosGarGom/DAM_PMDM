@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ej06_CreandoMenu</string>
+    <string name="salir">Salir</string>
+    <string name="perfil">Perfil</string>
+    <string name="guardar">Guardar</string>
+</resources>
