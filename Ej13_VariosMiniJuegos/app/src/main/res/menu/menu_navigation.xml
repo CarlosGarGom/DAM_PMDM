@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_tres_en_raya"
+        android:title="Tres en raya"
+        android:icon="@drawable/ic_tres_en_raya" />
+    <item
+        android:id="@+id/menu_escalera"
+        android:title="Escalera"
+        android:icon="@drawable/ic_escalera" />
+    <item
+        android:id="@+id/menu_primos"
+        android:title="Primos"
+        android:icon="@drawable/ic_primos" />
+</menu>

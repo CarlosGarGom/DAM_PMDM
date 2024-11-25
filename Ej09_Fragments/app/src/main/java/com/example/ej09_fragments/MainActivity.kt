@@ -22,8 +22,8 @@ class MainActivity : AppCompatActivity() {
 
         if (savedInstanceState == null) {
             val bundle = bundleOf(
-                "NAME_BUNDLE" to "Mi nombre",
-                "ADDRESS_BUNDLE" to "mi casa"
+                "NAME_BUNDLE" to "Carlos",
+                "ADDRESS_BUNDLE" to "Laguna"
             )
 
             supportFragmentManager.commit {
