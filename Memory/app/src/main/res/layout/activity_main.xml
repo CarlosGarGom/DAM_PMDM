@@ -1,0 +1,72 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@drawable/background"
+    android:padding="16dp">
+
+    <!-- Portada del juego -->
+    <LinearLayout
+        android:id="@+id/portadaLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:visibility="visible">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_marginTop="-60dp"
+            android:src="@drawable/title" />
+
+        <!-- Botón para iniciar el juego -->
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="175dp"
+            android:layout_marginTop="-10dp"
+            android:layout_marginBottom="40dp"
+            android:paddingBottom="40dp"
+            android:src="@drawable/texto_descripcion" />
+
+        <ImageView
+            android:id="@+id/btn_jugar"
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:src="@drawable/texto_jugar" />
+    </LinearLayout>
+
+    <!-- Espacio para el cronómetro -->
+    <TextView
+        android:id="@+id/cronometro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="00:00"
+        android:textSize="24sp"
+        android:layout_gravity="center"
+        android:paddingBottom="16dp"
+        android:visibility="gone"/>
+
+    <!-- GridLayout para las cartas -->
+    <GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:columnCount="4"
+        android:rowCount="4"
+        android:background="@drawable/style_texto_border"
+        android:padding="8dp"
+        android:layout_marginTop="100dp"
+        android:visibility="gone">
+    </GridLayout>
+    <ImageView
+        android:id="@+id/btn_volver"
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:src="@drawable/texto_volver"
+        android:visibility="gone"/>
+
+</LinearLayout>

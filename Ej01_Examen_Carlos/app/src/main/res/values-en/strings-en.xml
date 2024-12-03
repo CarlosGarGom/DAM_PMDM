@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ej01_Exam_Carlos</string>
+    <string name="alumno_name">Carlos</string>
+    <string name="title">Carlos Exam</string>
+    <string name="title_ejA">Prime , Fibbonaci, odd/even</string>
+    <string name="numero_a_comprobar">Check Number</string>
+    <string name="comprobar">Check</string>
+    <string name="lado">Put the side value\n</string>
+    <string name="dibujar">Draw</string>
+    <string name="title_ejB">Draw Pascal Triangle</string>
+    <string name="triangulo">Pascal Triangle</string>
+</resources>

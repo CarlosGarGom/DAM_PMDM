@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ej01_Examen_Carlos</string>
+    <string name="alumno_name">Carlos</string>
+    <string name="title">Examen de Carlos</string>
+    <string name="title_ejA">Primo, Fibbonaci, par/impar</string>
+    <string name="numero_a_comprobar">Numero a comprobar</string>
+    <string name="comprobar">Comprobar</string>
+    <string name="lado">Indique el valor del lado\n</string>
+    <string name="dibujar">Dibujar</string>
+    <string name="title_ejB">Dibujar Triangulo de Pascal</string>
+    <string name="triangulo">Triangulo de Pascal</string>
+</resources>
