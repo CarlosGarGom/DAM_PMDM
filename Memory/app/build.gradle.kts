@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.memory"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.memory"
