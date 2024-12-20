@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#03B0FF</color>
+    <color name="easy">#4CAF50</color> <!-- Verde para fácil -->
+    <color name="medium">#FFC107</color> <!-- Amarillo para medio -->
+    <color name="hard">#F44336</color> <!-- Rojo para difícil -->
+    <color name="ripple_color">#80FFFFFF</color> <!-- Efecto de pulsación -->
+    <color name="button_color">#6200EE</color> <!-- Fondo del botón -->
+
+</resources>

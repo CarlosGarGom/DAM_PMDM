@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="memory_card">Memory Card</string>
+    <string name="selecciona_la_dificultad">Choose Difficulty</string>
+    <string name="facil">Easy</string>
+    <string name="normal">Medium</string>
+    <string name="dificil">Hard</string>
+    <string name="descripcion">Memorize and WIN</string>
+    <string name="jugar">START</string>
+    <string name="volver">Go back</string>
+    <string name="perdido">You Loose!</string>
+    <string name="ganado">You Win!</string>
+</resources>

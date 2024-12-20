@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="memory_card">Memory Card</string>
+    <string name="selecciona_la_dificultad">Selecciona la Dificultad</string>
+    <string name="facil">Fácil</string>
+    <string name="normal">Normal</string>
+    <string name="dificil">Difícil</string>
+    <string name="descripcion">Memoriza y GANA</string>
+    <string name="jugar">JUGAR</string>
+    <string name="volver">Volver</string>
+    <string name="perdido">¡Has perdido!</string>
+    <string name="ganado">¡Has ganado!</string>
+</resources>
